@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.main {
+    height: 100%;
+    text-color: #4DA673;
+}
+p{
+    color:black ;
+}
+div .image {
+    position: relative;
+    width: 100%;
+    height: 30vh;
+}
+
+.h1 {
+    position: relative;
+    right: -12px;
+    bottom: 72px;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+div .a1
+{
+ text-color:#4DA673;
+}
+div .progress-bar
+{
+    color: darkred;
+}
